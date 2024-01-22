@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @marlube78
+- 👀 I’m interested in me interesa la programación orientada al análisis geoespacial, mediante desarrollo de geovisores web y herramientas con base en python, tengo experiencia en resolucion y gestion de bugs y analisis geoespaciales 
+- 🌱 I’m currently learning react with next.js for creating web geovisors; python and django for creating geospatial tools and data analytics; for data visualization I am learning about power BI and loocker studio.
+- 📫 Reach me with e-mail: icg.luciauu@gmail.com or cellphone 3003439613 
